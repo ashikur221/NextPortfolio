@@ -61,7 +61,7 @@ export const Skill_data = [
     },
     {
       skill_name: "Stripe Payment",
-      Image: "/stripe.webp",
+      Image: "/stripe.jpg",
       width: 80,
       height: 80,
     },
